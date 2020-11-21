@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "buzzer-app",
+    "slug": "snack-a8a61660-e6c3-4fd5-b60b-9d1f4fad9223",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "choosing team and color button"
+  }
+}
